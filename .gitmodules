@@ -1,0 +1,3 @@
+[submodule "the-sushi-tastes-app"]
+	path = the-sushi-tastes-app
+	url = https://github.com/leodvincci/sushi-tastes.git

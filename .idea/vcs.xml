@@ -8,6 +8,7 @@
     <mapping directory="$PROJECT_DIR$/nft-duck/nft-duck" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/scratch/scratch-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sushi-tastes" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/sushi-tastes-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/sushi-tastes/sushi-tastes-app" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tictactoe/tictactoe" vcs="Git" />
     <mapping directory="$PROJECT_DIR$/tictactoe/tictactoe/murmuring-crag-07572" vcs="Git" />
